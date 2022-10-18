@@ -1,2 +1,2 @@
 FROM tomcat:9.0
-COPY ./div.war /usr/local/tomcat/webapps
+COPY . /usr/local/tomcat/webapps
